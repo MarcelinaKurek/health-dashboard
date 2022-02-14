@@ -1,10 +1,10 @@
 # health-dashboard
 
-*Autorzy:  
+### Autorzy:  
 Maria Kałuska  
 Michał Komorowski  
 Marcelina Kurek  
-December 2020
+
 
 ## 1 Koncepcja projektu
 Celem projektu jest wizualizacja naszych danych dotyczących stylu życia.
