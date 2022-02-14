@@ -1,6 +1,6 @@
 # health-dashboard
 
-### Autorzy:  
+*### Autorzy: * 
 *Maria Kałuska  
 Michał Komorowski  
 Marcelina Kurek*  
