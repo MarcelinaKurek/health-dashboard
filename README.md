@@ -1,9 +1,9 @@
 # health-dashboard
 
-### *Autorzy:* 
-*Maria Kałuska  
-Michał Komorowski  
-Marcelina Kurek*  
+### Autorzy:   
+*Maria Kałuska   
+Michał Komorowski   
+Marcelina Kurek*    
 
 
 ## 1 Koncepcja projektu
