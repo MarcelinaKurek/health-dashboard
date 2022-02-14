@@ -20,3 +20,6 @@ tygodnia zajęć zdalnych oraz okresu przerwy świątecznej.
 
 ## 3 Używane narzędzia
 Aplikacja jest wykonana w języku Python z wykorzystaniem frameworku **Dashboard**
+
+## 4 Demonstracja działania aplikacji
+https://github.com/MarcelinaKurek/health-dashboard/tree/main/plots
